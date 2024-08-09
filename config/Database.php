@@ -1,5 +1,6 @@
 <?php
 class Database {
+    //proprite de connextion
     private $host = "localhost";
     private $dbname = "php_aoi_rest";
     private $userName = "root";
